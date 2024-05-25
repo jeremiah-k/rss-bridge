@@ -1,8 +1,8 @@
 {
   "service": "Heroku",
-  "name": "rss-bridge-heroku",
+  "name": "RSS Bridge",
   "description": "RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for websites which don't have one.",
-  "repository": "https://github.com/RSS-Bridge/rss-bridge?1651005770",
+  "repository": "https://github.com/jeremiah-k/rss-bridge",
   "keywords": ["php", "rss-bridge", "rss"]
 }
 
